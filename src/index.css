@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background-color: rgb(69, 160, 190);
+  color: WHITE;
+  text-decoration: none;
+}
+
+.nav-link {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  text-decoration: none;
+}
